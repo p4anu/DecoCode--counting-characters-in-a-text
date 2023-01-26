@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DecoCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecoCode_jar</output-path>
+    <root id="archive" name="DecoCode.jar">
+      <element id="module-output" name="DecoCode" />
+    </root>
+  </artifact>
+</component>
